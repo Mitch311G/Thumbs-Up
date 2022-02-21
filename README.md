@@ -10,7 +10,7 @@ The app was designed and developed from scratch by a team of 6 engineers in 1.5 
 </h3>
 
 <p align="center">
-<img src="">
+<img src="readme_assets/landing_page.png">
 </p>
 
 ---

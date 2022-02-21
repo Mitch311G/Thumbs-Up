@@ -63,7 +63,7 @@ Each team member was responsible for developing different features in the app ac
 
 ### View rider trip history and rate driver
 <p align="center">
-<img src="">
+<img src="readme_assets/upcoming_trip.gif">
 </p>
 
 ---

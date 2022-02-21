@@ -44,6 +44,7 @@ Each team member was responsible for developing different features in the app ac
     - [Node.js and npm](https://nodejs.org/en/download/)
     - [PostgreSQL](https://www.postgresql.org/download/)
 2. Obtain a [Google Maps API key](https://developers.google.com/maps)
+3. Allow your browser to access your location
 
 ---
 

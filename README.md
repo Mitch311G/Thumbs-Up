@@ -26,7 +26,7 @@ Each team member was responsible for developing different features in the app ac
 **Make sure your system meets the requirements below before following installation**
 1. Clone this repo to your local machine:
     - `git clone https://github.com/Mitch311G/Thumbs-Up.git`
-2. Navigate the repo's root directory:
+2. Navigate to the repo's root directory:
     - `cd Thumbs-Up`
 3. Install project dependencies:
     - `npm install`
@@ -48,8 +48,12 @@ Each team member was responsible for developing different features in the app ac
 ---
 
 ## Usage
-- **Sample Rider:** Username: FryGuy Password: 456
-- **Sample Driver:** Username: MrFripple Password: 123
+- **Sample Rider:**
+    - Username: FryGuy
+    - Password: 456
+- **Sample Driver:**
+    - Username: MrFripple
+    - Password: 123
 
 ### Navigate to rider portal
 <p align="center">

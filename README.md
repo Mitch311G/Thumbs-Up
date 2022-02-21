@@ -48,8 +48,8 @@ Each team member was responsible for developing different features in the app ac
 ---
 
 ## Usage
-**Sample Rider:** Username: FryGuy Password: 456
-**Sample Driver:** Username: MrFripple Password: 123
+- **Sample Rider:** Username: FryGuy Password: 456
+- **Sample Driver:** Username: MrFripple Password: 123
 
 ### Navigate to rider portal
 <p align="center">
@@ -58,7 +58,7 @@ Each team member was responsible for developing different features in the app ac
 
 ### View upcoming rider trips and chat with driver
 <p align="center">
-<img src="">
+<img src="readme_assets/upcoming_trip.gif">
 </p>
 
 ### View rider trip history and rate driver

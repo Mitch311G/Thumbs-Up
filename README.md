@@ -6,7 +6,7 @@
 The app was designed and developed from scratch by a team of 6 engineers in 1.5 weeks. Front end technologies used include ReactJS, React Router, React-Bootstrap, Webpack, Babel, HTML5, and CSS3. Back end technologies include ExpressJS and PostgreSQL.
 
 <h3 align="center">
-<a src="https://lit-castle-22669.herokuapp.com/">Live Demo</a>
+<a href="https://lit-castle-22669.herokuapp.com/">Live Demo</a>
 </h3>
 
 <p align="center">

@@ -16,7 +16,9 @@ The app was designed and developed from scratch by a team of 6 engineers in 1.5 
 ---
 
 ## Project Responsibilities
-Each team member was responsible for developing different features in the app accross the entire stack. My contribution to **Thumbs Up** resides primarily in the development of upcoming and previous trip lists for riders and the tirp history for drivers. Inside the riders trip history, riders are able to rate drivers using a 5 star rating system and only rate the driver once per trip. To see these features in action, visit the **Usage** section below.
+Each team member was responsible for developing different features in the app accross the entire stack. My contribution to **Thumbs Up** resides primarily in the development of the upcoming rider trip list and riders/drivers tirp history (shared component). Inside the riders trip history, riders are able to rate drivers using a 5 star rating system and only rate the driver once per trip.
+
+**To see these features in action, visit the Usage section below.**
 
 ---
 
@@ -46,7 +48,17 @@ Each team member was responsible for developing different features in the app ac
 ---
 
 ## Usage
+### Navigate to rider portal
+<p align="center">
+<img src="">
+</p>
 
+### View upcoming rider trips and chat with driver
+<p align="center">
+<img src="">
+</p>
+
+### View rider trip history and rate driver
 <p align="center">
 <img src="">
 </p>

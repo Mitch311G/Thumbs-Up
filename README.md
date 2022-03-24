@@ -1,7 +1,7 @@
 <h1 align="center">Thumbs Up</h1>
 
 ## Description
-**Thumbs Up** is a carpooling/ride-sharing application that connects riders and drivers who are looking to decrease cost of travel and reduce their carbon footprint. This full stack app allows drivers to post trips they will be taking with specific starting and ending desitinations, while riders are able to search for trips they wish to take and request a seat on a scheduled trip. Once the driver accepts the rider on a trip, they are able to use a real time chat feature to schedule pick-up locations and negotiate fuel costs. Both riders and drivers are able to view their upcoming and previous trips, and riders have the ability to rate their driver on a 5 star scale.
+**Thumbs Up** is a carpooling/ride-sharing application that connects riders and drivers who are looking to decrease cost of travel and reduce their carbon footprint. This full stack app allows drivers to post trips they will be taking with specific starting and ending destinations, while riders are able to search for trips they wish to take and request a seat on a scheduled trip. Once the driver accepts the rider on a trip, they are able to use a real time chat feature to schedule pick-up locations and negotiate fuel costs. Both riders and drivers are able to view their upcoming and previous trips, and riders have the ability to rate their driver on a 5 star scale.
 
 The app was designed and developed from scratch by a team of 6 engineers in 1.5 weeks. Front end technologies used include ReactJS, React Router, React-Bootstrap, Webpack, Babel, HTML5, and CSS3. Back end technologies include ExpressJS and PostgreSQL.
 
